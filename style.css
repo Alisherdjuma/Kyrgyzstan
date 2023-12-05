@@ -1,0 +1,43 @@
+#wrap{
+	width: 700px;
+	margin: auto;
+	background-color: white;
+	padding: 20px;
+}
+img{
+	width: 250px;
+	float: left;
+	padding: 20px;
+}
+.link{
+	text-align: right;
+}
+.menu a:hover{
+	color: skyblue;
+}
+.block{
+	border: 2px solid black;
+	padding: 20px;
+	margin: 20px;
+}
+body{
+	background-image: url("https://youtravel.me/upload/tours/e82/e82d76da03f908eb4e897003eb7a0962.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.text{
+	font-style: oblique;
+}
+.text2{
+	font-style: oblique;
+}
+.text3{
+	font-style: oblique;
+}
+.menu a{
+	font-size: 20px;
+	text-decoration: none;
+	color: blue;
+	padding: 10px;
+}
